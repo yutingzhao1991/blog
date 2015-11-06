@@ -1,5 +1,7 @@
 #Welcome!
 
-Blog List: [ISSUE](https://github.com/yutingzhao1991/blog/issues)
+文章列表: [ISSUE](https://github.com/yutingzhao1991/blog/issues)
 
-Old blog: [i.yutingzhao.com](http://i.yutingzhao.com)
+推荐使用[github-blogs](https://github.com/yutingzhao1991/github-blogs)获取更新
+
+旧博客: [i.yutingzhao.com](http://i.yutingzhao.com)
