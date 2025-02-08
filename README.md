@@ -6,7 +6,7 @@
 
 [通过github-blogs订阅](https://github.com/yutingzhao1991/github-blogs)
 
-[老博客](http://i.yutingzhao.com)
+[新博客](https://www.yu1024.com/)
 
 最近建了一个群，如果有想要一起讨论交流的欢迎加入：
 
